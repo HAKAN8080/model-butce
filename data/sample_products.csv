@@ -1,0 +1,130 @@
+﻿SKU,Model_Kodu,Ana_Grup,Ust_Grup,Alt_Grup,Urun_Tipi,Brut_Marj_%,Urun_Adi
+SKU10000,MDL10000,Aksesuar,Koku,Oda Kokusu,Carryover,56.19,Oda Kokusu A
+SKU10001,MDL10001,Aksesuar,Koku,Oda Kokusu,NOS,29.0,Oda Kokusu B
+SKU10002,MDL10002,Aksesuar,Koku,Oda Kokusu,Carryover,30.71,Oda Kokusu C
+SKU10003,MDL10003,Aksesuar,Koku,Oda Kokusu,Carryover,53.88,Oda Kokusu D
+SKU10004,MDL10004,Aksesuar,Koku,Oda Kokusu,Carryover,64.69,Oda Kokusu E
+SKU10005,MDL10005,Aksesuar,Koku,Araba Kokusu,NOS,42.28,Araba Kokusu A
+SKU10006,MDL10003,Aksesuar,Koku,Araba Kokusu,Carryover,64.33,Araba Kokusu B
+SKU10007,MDL10007,Aksesuar,Koku,Araba Kokusu,Yeni,52.21,Araba Kokusu C
+SKU10008,MDL10004,Aksesuar,Koku,Sprey,Yeni,47.53,Sprey A
+SKU10009,MDL10009,Aksesuar,Koku,Sprey,Carryover,34.24,Sprey B
+SKU10010,MDL10003,Aksesuar,Koku,Sprey,NOS,58.33,Sprey C
+SKU10011,MDL10011,Aksesuar,Çanta,El Çantası,Carryover,51.5,El Çantası A
+SKU10012,MDL10012,Aksesuar,Çanta,El Çantası,NOS,46.87,El Çantası B
+SKU10013,MDL10011,Aksesuar,Çanta,El Çantası,Yeni,62.58,El Çantası C
+SKU10014,MDL10014,Aksesuar,Çanta,El Çantası,NOS,61.87,El Çantası D
+SKU10015,MDL10008,Aksesuar,Çanta,El Çantası,NOS,63.45,El Çantası E
+SKU10016,MDL10016,Aksesuar,Çanta,Sırt Çantası,Carryover,58.15,Sırt Çantası A
+SKU10017,MDL10017,Aksesuar,Çanta,Sırt Çantası,Carryover,46.71,Sırt Çantası B
+SKU10018,MDL10017,Aksesuar,Çanta,Sırt Çantası,Carryover,41.94,Sırt Çantası C
+SKU10019,MDL10011,Aksesuar,Çanta,Cüzdan,Carryover,32.95,Cüzdan A
+SKU10020,MDL10020,Aksesuar,Çanta,Cüzdan,Yeni,49.24,Cüzdan B
+SKU10021,MDL10021,Aksesuar,Çanta,Cüzdan,NOS,61.6,Cüzdan C
+SKU10022,MDL10022,Aksesuar,Takı,Kolye,Carryover,27.54,Kolye A
+SKU10023,MDL10023,Aksesuar,Takı,Kolye,Carryover,54.18,Kolye B
+SKU10024,MDL10024,Aksesuar,Takı,Kolye,Yeni,43.89,Kolye C
+SKU10025,MDL10025,Aksesuar,Takı,Küpe,Yeni,53.87,Küpe A
+SKU10026,MDL10019,Aksesuar,Takı,Küpe,Carryover,53.43,Küpe B
+SKU10027,MDL10024,Aksesuar,Takı,Küpe,Carryover,50.46,Küpe C
+SKU10028,MDL10028,Aksesuar,Takı,Bileklik,Yeni,34.97,Bileklik A
+SKU10029,MDL10029,Aksesuar,Takı,Bileklik,Yeni,34.15,Bileklik B
+SKU10030,MDL10027,Aksesuar,Takı,Bileklik,Carryover,62.19,Bileklik C
+SKU10031,MDL10026,Aksesuar,Saat,Duvar Saati,Yeni,57.15,Duvar Saati A
+SKU10032,MDL10025,Aksesuar,Saat,Duvar Saati,Yeni,37.72,Duvar Saati B
+SKU10033,MDL10024,Aksesuar,Saat,Duvar Saati,NOS,25.02,Duvar Saati C
+SKU10034,MDL10034,Aksesuar,Saat,Masa Saati,Carryover,45.43,Masa Saati A
+SKU10035,MDL10035,Aksesuar,Saat,Masa Saati,Carryover,29.79,Masa Saati B
+SKU10036,MDL10036,Aksesuar,Saat,Masa Saati,Yeni,37.93,Masa Saati C
+SKU10037,MDL10037,Aksesuar,Saat,Kol Saati,Carryover,35.16,Kol Saati A
+SKU10038,MDL10031,Aksesuar,Saat,Kol Saati,NOS,37.04,Kol Saati B
+SKU10039,MDL10038,Aksesuar,Saat,Kol Saati,Carryover,64.06,Kol Saati C
+SKU10040,MDL10039,Ev Tekstili,Yatak,Nevresim,NOS,52.23,Nevresim A
+SKU10041,MDL10041,Ev Tekstili,Yatak,Nevresim,NOS,47.12,Nevresim B
+SKU10042,MDL10042,Ev Tekstili,Yatak,Nevresim,Carryover,39.79,Nevresim C
+SKU10043,MDL10037,Ev Tekstili,Yatak,Nevresim,Carryover,50.29,Nevresim D
+SKU10044,MDL10044,Ev Tekstili,Yatak,Yastık,Yeni,56.93,Yastık A
+SKU10045,MDL10039,Ev Tekstili,Yatak,Yastık,NOS,59.33,Yastık B
+SKU10046,MDL10046,Ev Tekstili,Yatak,Yastık,Carryover,53.45,Yastık C
+SKU10047,MDL10047,Ev Tekstili,Yatak,Yastık,Carryover,28.85,Yastık D
+SKU10048,MDL10048,Ev Tekstili,Yatak,Yorgan,Carryover,62.47,Yorgan A
+SKU10049,MDL10040,Ev Tekstili,Yatak,Yorgan,Carryover,61.99,Yorgan B
+SKU10050,MDL10050,Ev Tekstili,Yatak,Yorgan,Carryover,51.4,Yorgan C
+SKU10051,MDL10051,Ev Tekstili,Banyo,Havlu,NOS,35.43,Havlu A
+SKU10052,MDL10052,Ev Tekstili,Banyo,Havlu,Yeni,47.33,Havlu B
+SKU10053,MDL10053,Ev Tekstili,Banyo,Havlu,Carryover,36.15,Havlu C
+SKU10054,MDL10054,Ev Tekstili,Banyo,Havlu,Yeni,59.25,Havlu D
+SKU10055,MDL10055,Ev Tekstili,Banyo,Bornoz,NOS,28.37,Bornoz A
+SKU10056,MDL10050,Ev Tekstili,Banyo,Bornoz,NOS,48.23,Bornoz B
+SKU10057,MDL10057,Ev Tekstili,Banyo,Bornoz,Yeni,63.95,Bornoz C
+SKU10058,MDL10056,Ev Tekstili,Banyo,Bornoz,NOS,42.94,Bornoz D
+SKU10059,MDL10058,Ev Tekstili,Banyo,Paspas,Carryover,44.76,Paspas A
+SKU10060,MDL10052,Ev Tekstili,Banyo,Paspas,NOS,58.97,Paspas B
+SKU10061,MDL10061,Ev Tekstili,Banyo,Paspas,NOS,28.75,Paspas C
+SKU10062,MDL10062,Ev Tekstili,Mutfak,Peçete,Carryover,48.59,Peçete A
+SKU10063,MDL10063,Ev Tekstili,Mutfak,Peçete,NOS,61.24,Peçete B
+SKU10064,MDL10064,Ev Tekstili,Mutfak,Peçete,Carryover,50.8,Peçete C
+SKU10065,MDL10065,Ev Tekstili,Mutfak,Peçete,Yeni,34.21,Peçete D
+SKU10066,MDL10066,Ev Tekstili,Mutfak,Peçete,NOS,55.74,Peçete E
+SKU10067,MDL10067,Ev Tekstili,Mutfak,Önlük,NOS,36.18,Önlük A
+SKU10068,MDL10068,Ev Tekstili,Mutfak,Önlük,Yeni,63.12,Önlük B
+SKU10069,MDL10069,Ev Tekstili,Mutfak,Önlük,NOS,47.89,Önlük C
+SKU10070,MDL10065,Ev Tekstili,Mutfak,Fırın Eldiveni,Carryover,35.74,Fırın Eldiveni A
+SKU10071,MDL10071,Ev Tekstili,Mutfak,Fırın Eldiveni,Carryover,40.79,Fırın Eldiveni B
+SKU10072,MDL10072,Ev Tekstili,Mutfak,Fırın Eldiveni,Yeni,27.82,Fırın Eldiveni C
+SKU10073,MDL10073,Ev Tekstili,Perde,Tül,Yeni,30.6,Tül A
+SKU10074,MDL10074,Ev Tekstili,Perde,Tül,Yeni,54.63,Tül B
+SKU10075,MDL10075,Ev Tekstili,Perde,Tül,Yeni,39.38,Tül C
+SKU10076,MDL10069,Ev Tekstili,Perde,Tül,NOS,35.25,Tül D
+SKU10077,MDL10070,Ev Tekstili,Perde,Fon,NOS,56.93,Fon A
+SKU10078,MDL10078,Ev Tekstili,Perde,Fon,Yeni,56.83,Fon B
+SKU10079,MDL10079,Ev Tekstili,Perde,Fon,Carryover,40.02,Fon C
+SKU10080,MDL10080,Ev Tekstili,Perde,Stor,NOS,38.13,Stor A
+SKU10081,MDL10075,Ev Tekstili,Perde,Stor,NOS,26.22,Stor B
+SKU10082,MDL10076,Ev Tekstili,Perde,Stor,Carryover,46.48,Stor C
+SKU10083,MDL10083,Ev Tekstili,Perde,Stor,Yeni,35.86,Stor D
+SKU10084,MDL10084,Dekorasyon,Çerçeve,Fotoğraf Çerçevesi,Yeni,32.78,Fotoğraf Çerçevesi A
+SKU10085,MDL10085,Dekorasyon,Çerçeve,Fotoğraf Çerçevesi,NOS,30.53,Fotoğraf Çerçevesi B
+SKU10086,MDL10084,Dekorasyon,Çerçeve,Fotoğraf Çerçevesi,NOS,37.92,Fotoğraf Çerçevesi C
+SKU10087,MDL10087,Dekorasyon,Çerçeve,Tablo Çerçevesi,NOS,54.76,Tablo Çerçevesi A
+SKU10088,MDL10083,Dekorasyon,Çerçeve,Tablo Çerçevesi,Carryover,42.13,Tablo Çerçevesi B
+SKU10089,MDL10089,Dekorasyon,Çerçeve,Tablo Çerçevesi,Carryover,61.61,Tablo Çerçevesi C
+SKU10090,MDL10084,Dekorasyon,Çerçeve,Ayna Çerçevesi,Yeni,51.41,Ayna Çerçevesi A
+SKU10091,MDL10084,Dekorasyon,Çerçeve,Ayna Çerçevesi,NOS,42.43,Ayna Çerçevesi B
+SKU10092,MDL10092,Dekorasyon,Çerçeve,Ayna Çerçevesi,Carryover,47.64,Ayna Çerçevesi C
+SKU10093,MDL10087,Dekorasyon,Çerçeve,Ayna Çerçevesi,Carryover,29.64,Ayna Çerçevesi D
+SKU10094,MDL10093,Dekorasyon,Çerçeve,Ayna Çerçevesi,Carryover,64.18,Ayna Çerçevesi E
+SKU10095,MDL10095,Dekorasyon,Mum,Kokulu Mum,Carryover,44.66,Kokulu Mum A
+SKU10096,MDL10096,Dekorasyon,Mum,Kokulu Mum,Carryover,42.35,Kokulu Mum B
+SKU10097,MDL10097,Dekorasyon,Mum,Kokulu Mum,NOS,50.4,Kokulu Mum C
+SKU10098,MDL10095,Dekorasyon,Mum,Dekoratif Mum,NOS,59.26,Dekoratif Mum A
+SKU10099,MDL10099,Dekorasyon,Mum,Dekoratif Mum,Carryover,27.82,Dekoratif Mum B
+SKU10100,MDL10100,Dekorasyon,Mum,Dekoratif Mum,Carryover,48.43,Dekoratif Mum C
+SKU10101,MDL10101,Dekorasyon,Mum,Dekoratif Mum,NOS,40.53,Dekoratif Mum D
+SKU10102,MDL10102,Dekorasyon,Mum,Tealight,NOS,62.66,Tealight A
+SKU10103,MDL10103,Dekorasyon,Mum,Tealight,Yeni,61.21,Tealight B
+SKU10104,MDL10102,Dekorasyon,Mum,Tealight,Carryover,49.73,Tealight C
+SKU10105,MDL10097,Dekorasyon,Vazo,Cam Vazo,Carryover,52.26,Cam Vazo A
+SKU10106,MDL10106,Dekorasyon,Vazo,Cam Vazo,Carryover,44.84,Cam Vazo B
+SKU10107,MDL10107,Dekorasyon,Vazo,Cam Vazo,Carryover,62.47,Cam Vazo C
+SKU10108,MDL10099,Dekorasyon,Vazo,Cam Vazo,Yeni,36.28,Cam Vazo D
+SKU10109,MDL10100,Dekorasyon,Vazo,Cam Vazo,NOS,48.04,Cam Vazo E
+SKU10110,MDL10110,Dekorasyon,Vazo,Seramik Vazo,Carryover,56.06,Seramik Vazo A
+SKU10111,MDL10111,Dekorasyon,Vazo,Seramik Vazo,Yeni,59.34,Seramik Vazo B
+SKU10112,MDL10112,Dekorasyon,Vazo,Seramik Vazo,Yeni,55.18,Seramik Vazo C
+SKU10113,MDL10112,Dekorasyon,Vazo,Seramik Vazo,NOS,44.86,Seramik Vazo D
+SKU10114,MDL10114,Dekorasyon,Vazo,Seramik Vazo,Carryover,29.0,Seramik Vazo E
+SKU10115,MDL10115,Dekorasyon,Vazo,Metal Vazo,Carryover,37.77,Metal Vazo A
+SKU10116,MDL10116,Dekorasyon,Vazo,Metal Vazo,Yeni,47.94,Metal Vazo B
+SKU10117,MDL10117,Dekorasyon,Vazo,Metal Vazo,NOS,36.73,Metal Vazo C
+SKU10118,MDL10118,Dekorasyon,Ayna,Duvar Aynası,Carryover,62.85,Duvar Aynası A
+SKU10119,MDL10119,Dekorasyon,Ayna,Duvar Aynası,Carryover,62.24,Duvar Aynası B
+SKU10120,MDL10120,Dekorasyon,Ayna,Duvar Aynası,Yeni,27.23,Duvar Aynası C
+SKU10121,MDL10121,Dekorasyon,Ayna,Masa Aynası,Carryover,29.68,Masa Aynası A
+SKU10122,MDL10121,Dekorasyon,Ayna,Masa Aynası,Carryover,28.36,Masa Aynası B
+SKU10123,MDL10123,Dekorasyon,Ayna,Masa Aynası,Carryover,57.87,Masa Aynası C
+SKU10124,MDL10124,Dekorasyon,Ayna,Masa Aynası,Carryover,28.39,Masa Aynası D
+SKU10125,MDL10125,Dekorasyon,Ayna,Masa Aynası,Carryover,39.83,Masa Aynası E
+SKU10126,MDL10126,Dekorasyon,Ayna,Boy Aynası,Yeni,55.14,Boy Aynası A
+SKU10127,MDL10127,Dekorasyon,Ayna,Boy Aynası,Carryover,56.09,Boy Aynası B
+SKU10128,MDL10128,Dekorasyon,Ayna,Boy Aynası,NOS,61.25,Boy Aynası C
