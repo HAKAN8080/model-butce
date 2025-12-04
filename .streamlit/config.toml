@@ -1,0 +1,15 @@
+[server]
+headless = true
+port = 8501
+
+[browser]
+gatherUsageStats = false
+```
+
+### Adım 2: `runtime.txt` Oluştur (ÖNEMLİ)
+
+1. "Add file" > "Create new file"  
+2. Dosya adı: `runtime.txt`
+3. İçeriği:
+```
+python-3.11
